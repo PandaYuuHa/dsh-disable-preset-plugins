@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Disable Preset Plugins",
+    "description": "Disables specified built-in plugins in agent presets (standard, PTC, etc.) via configuration without creating new agent modes."
+  }
+}

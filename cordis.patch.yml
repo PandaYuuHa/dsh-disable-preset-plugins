@@ -1,0 +1,3 @@
+- insert:
+    - id: disable-preset-plugins
+      name: '@pandayuuha/dsh-disable-preset-plugins'
